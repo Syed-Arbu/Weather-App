@@ -19,4 +19,4 @@ A simple weather forecast web app built using **HTML, CSS, and JavaScript** that
 
 ##▶️ Demo
 You can check out the live demo  
-👉
+👉 https://syed-arbu.github.io/Weather-App/
